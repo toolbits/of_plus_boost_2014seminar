@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E4838CE-3C1C-4685-B71D-DA5E7F266463</string>
+	<key>IDESourceControlProjectName</key>
+	<string>boost_lock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68084ABDEFEABC2C125C8B37E9120F2008FD3222</key>
+		<string>https://github.com/toolbits/of_plus_boost_2014seminar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>boost_lock/boost_lock.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68084ABDEFEABC2C125C8B37E9120F2008FD3222</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/toolbits/of_plus_boost_2014seminar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68084ABDEFEABC2C125C8B37E9120F2008FD3222</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68084ABDEFEABC2C125C8B37E9120F2008FD3222</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of_plus_boost_2014seminar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
